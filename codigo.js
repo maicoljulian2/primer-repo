@@ -3,4 +3,4 @@ const saludar = (name)=>{
     console.log("hola como estas  " + nombre)
 }
 
-saludar("maicol julian mendoza")
+saludar("maicol julian mendoza sanchez")
